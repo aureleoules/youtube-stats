@@ -1,4 +1,5 @@
 # YouTube Personal Statistics
+YouTube Personal Statistics will show you how much time you've spent watching videos.
 
 ## How to use
 * `$ yarn` or `$ npm install` to install dependencies
