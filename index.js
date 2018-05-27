@@ -10,7 +10,6 @@ const FILE_LOCATION = "./activity.html";
 
 init();
 function init() {
-    clear();
     console.log("Reading file: " + FILE_LOCATION);
     fs.readFile(FILE_LOCATION, function (err, html) {
         console.log("File successfuly read.");
