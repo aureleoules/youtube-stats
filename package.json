@@ -1,0 +1,17 @@
+{
+  "name": "yt-personal-stats",
+  "version": "1.0.0",
+  "description": "Shows your personal YouTube stats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aureleoules",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "progress": "^2.0.0"
+  }
+}
