@@ -5,6 +5,7 @@ YouTube Personal Statistics will show you how much time you've spent watching vi
 * `$ yarn` or `$ npm install` to install dependencies
 * Create a `config.json` using the `config.json.sample` file. Create a **Google API Key** [here](https://console.developers.google.com/apis/dashboard). You need to active the **YouTube API V3** [here](https://console.developers.google.com/apis/library).
 * Download your **Personal Google Data** [here](https://takeout.google.com/settings/takeout/downloads).
+    - First, on the top right corner, you need to choose the right **Google Account** and also the right **YouTube Channel**
     - Click on **Create an archive**
     - Only select **My Activity**
     - Select data: **YouTube**
