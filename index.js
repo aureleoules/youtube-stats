@@ -18,6 +18,7 @@ function init() {
         } else {
             console.log("Fetching links...");
             const ids = fetchIds(html); //split because youtube v3 limits 50 ids per request
+            console.log(ids[ids.length -4]);
             console.log("Links fetched. (" + ids.length + ")");
             getTotalDuration(ids);
         }

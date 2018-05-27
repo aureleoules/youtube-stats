@@ -12,7 +12,7 @@ YouTube Personal Statistics will show you how much time you've spent watching vi
     - Click on next
     - Click on **Create an archive**
     - Download your archive
-    - Find the file `My Activity.html` in `Takout/My Activity/YouTube/`
+    - Find the file `My Activity.html` in `Takeout/My Activity/YouTube/`
     - Move it to this folder and rename it activity.html
 * Run using `$ node index.js`. This might take a while.
 
